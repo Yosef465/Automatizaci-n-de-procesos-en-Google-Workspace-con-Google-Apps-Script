@@ -37,7 +37,6 @@ Este proyecto demuestra la automatización e integración de servicios dentro de
 - **Google Sheets**
 - **Gmail API**
 - **Google Calendar API**
-- **(Opcional) Google Chat Webhooks**
 
 ---
 
