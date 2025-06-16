@@ -30,7 +30,6 @@ Este proyecto demuestra cómo automatizar e integrar servicios del ecosistema de
 
 ### 4. Activadores Automáticos (Triggers)
 - Activador al **editar** la hoja (onEdit).
-- Activador **por tiempo** para ejecutar funciones en intervalos programados.
 
 ---
 
