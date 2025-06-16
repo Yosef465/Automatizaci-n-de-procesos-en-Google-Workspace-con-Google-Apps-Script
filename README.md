@@ -40,7 +40,7 @@ Este proyecto demuestra cómo automatizar e integrar servicios del ecosistema de
 - Gmail API
 - Google Calendar API
 - Google Chat Webhooks (opcional)
-
+  
 ---
 
 ## 🏗️ Desarrollo del Proyecto
@@ -49,7 +49,7 @@ Este proyecto demuestra cómo automatizar e integrar servicios del ecosistema de
 
 Se creó un entorno de prueba en Google Workspace con **cuentas demo** y una cuenta real para comprobar la funcionalidad.
 
-![Simulación del entorno](./images/simulación_entorno.png)
+![Simulación del entorno](./img/simulación_entorno.png)
 
 ---
 
