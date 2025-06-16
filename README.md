@@ -65,7 +65,7 @@ Se definieron roles y permisos según jerarquías (lector, editor, administrador
 
 Se aplicaron políticas de acceso restringido, autenticación en dos pasos y separación de responsabilidades.
 
-![Políticas básicas](./imagenes/images/politicas_basicas.png)
+![Políticas básicas](./images/politicas_basicas.png)
 
 ---
 
