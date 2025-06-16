@@ -57,7 +57,7 @@ Se creó un entorno de prueba en Google Workspace con **cuentas demo** y una cue
 
 Se definieron roles y permisos según jerarquías (lector, editor, administrador), para garantizar seguridad.
 
-![Descripción de roles](./imagenes/Descripcion_roles.png)
+![Descripción de roles](./images/Descripcion_roles.png)
 
 ---
 
@@ -65,7 +65,7 @@ Se definieron roles y permisos según jerarquías (lector, editor, administrador
 
 Se aplicaron políticas de acceso restringido, autenticación en dos pasos y separación de responsabilidades.
 
-![Políticas básicas](./imagenes/políticas_basicas.png)
+![Políticas básicas](./imagenes/images/politicas_basicas.png)
 
 ---
 
@@ -75,11 +75,11 @@ El script envió correctamente un correo con los detalles del evento.
 
 **Correo Enviado:**
 
-![Correo enviado](./imagenes/correo_enviado.png)
+![Correo enviado](./images/correo_enviado.png)
 
 **Correo Recibido (Cuenta real):**
 
-![Correo recibido](./imagenes/notificacion_roles.jpg)
+![Correo recibido](./images/notificacion_roles.jpg)
 
 ---
 
@@ -89,11 +89,11 @@ Se implementó una función que genera automáticamente un evento desde Google S
 
 **Ejecución de la función:**
 
-![Ejecución del código](./imagenes/evento_ceado01.png)
+![Ejecución del código](./images/evento_ceado01.png)
 
 **Evento creado exitosamente en Calendar:**
 
-![Evento en Calendar](./imagenes/evento_creado.png)
+![Evento en Calendar](./images/evento_creado.png)
 
 ---
 
@@ -103,15 +103,15 @@ Se configuraron activadores para ejecutar automáticamente el script al editar l
 
 **Configuración del activador:**
 
-![Activador](./imagenes/activador_evento.png)
+![Activador](./images/activador_evento.png)
 
 **Creación de evento de prueba desde hoja de cálculo:**
 
-![Edición hoja](./imagenes/evento_prueba_activador.png)
+![Edición hoja](./images/evento_prueba_activador.png)
 
 **Confirmación automática:**
 
-![Confirmación](./imagenes/confirmacion_activador_evento.png)
+![Confirmación](./images/confirmacion_activador_evento.png)
 
 ---
 
