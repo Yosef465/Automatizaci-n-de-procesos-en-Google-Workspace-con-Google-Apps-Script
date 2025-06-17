@@ -119,8 +119,8 @@ Se configuraron activadores para ejecutar automáticamente el script al editar l
 
 ```plaintext
 📦 Proyecto Workspace Automation
- ├── Código.gs              # Funciones de procesamiento principal
- ├── eventos.gs            # Funciones de envío de correos y creación de eventos
+ ├── Código.js              # Funciones de procesamiento principal
+ ├── eventos.js            # Funciones de envío de correos y creación de eventos
  ├── README.md             # Documentación del proyecto
  └── /imagenes             # Carpeta con evidencia visual del desarrollo
 
